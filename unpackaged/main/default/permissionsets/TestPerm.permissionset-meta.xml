@@ -3,8 +3,4 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>TestPerm</label>
     <license>Silver Partner</license>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterEditOwnPost</name>
-    </userPermissions>
 </PermissionSet>
