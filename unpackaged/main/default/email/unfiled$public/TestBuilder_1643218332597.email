@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initialscale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style type="text/css">@media screen and (max-width: 480px) {slot[style] {margin-right: 0 !important;}.columnDiv {margin-right: 0 !important;}}@media screen and (min-width: 480px) {slot[style] {margin-bottom: 0 !important;}.columnDiv {margin-bottom: 0 !important;}}</style>
+  <style type="text/css">@media screen and (max-width: 480px) {.contentbuilderBaseColumnRow .columnCell {display:inline-block;width:100%}}</style>
+  <style type="text/css">.contentpageDefaultEmailTemplatePageTemplate .contentRoot {width: 600px;}@media only screen and (max-width: 480px) {.contentpageDefaultEmailTemplatePageTemplate .contentRoot {width: 320px;}}</style>
+ </head>
+ <body> 
+  <div id="contentpage_emailTemplatePreheader" style="display: none; visibility: hidden; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">
+    TestBuilder&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌ 
+  </div> 
+  <table role="presentation" id="contentpage_emailTemplateBodyContent" width="100%" cellpadding="0" cellspacing="0" class="contentpageDefaultEmailTemplatePageTemplate" style="background-color: #E9EAEC;"> 
+   <tbody> 
+    <tr> 
+     <td width="100%" align="center"> 
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="contentRoot"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px;"> 
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="" class="contentbuilderBaseColumnRow"> 
+           <tbody> 
+            <tr valign="top"> 
+             <td class="columnCell" style="vertical-align: top;display: inline-block;" width="100%"> 
+              <table style="width: 100%; border-collapse: collapse; word-break: break-word; "> 
+               <tbody> 
+                <tr> 
+                 <td> 
+                  <table role="presentation" cellspacing="0" cellpadding="0" id="contentregion" locked="0" style="font-size:14px; width: 100%; border-collapse: collapse; word-break: break-word;"> 
+                   <tbody> 
+                    <tr> 
+                     <td class="manual" style="padding: 0;">https://gearset-3e3-dev-ed.my.salesforce.com/sfc/p/8d000001GXas/a/8d000000Xk2E/1P4Q9qcf5to1i9nl.UuGE4MfEAi7.Ou31TKTEzC4uuE</td> 
+                    </tr> 
+                   </tbody> 
+                  </table></td> 
+                </tr> 
+                <tr> 
+                 <td> 
+                  <table id="contentRegion" role="presentation" cellspacing="0" cellpadding="0" locked="0" style="width:100%; border-collapse: collapse; word-break:break-word;"> 
+                   <tbody> 
+                    <tr> 
+                     <td align="Center"><img src="{[devName:pup]}" alt="" width="600" style="width: 100%; display: block; border: none; max-width: 100%;" /></td> 
+                    </tr> 
+                   </tbody> 
+                  </table></td> 
+                </tr> 
+               </tbody> 
+              </table></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="" class="contentbuilderBaseColumnRow"> 
+           <tbody> 
+            <tr valign="top"> 
+             <td class="columnCell" style="vertical-align: top;display: inline-block;" width="100%"> 
+              <table style="width: 100%; border-collapse: collapse; word-break: break-word; "> 
+               <tbody> 
+                <tr> 
+                 <td> 
+                  <table id="contentRegion" role="presentation" cellspacing="0" cellpadding="0" locked="0" style="width: 100%; border-collapse: collapse; word-break: break-word; font-size: 14px"> 
+                   <tbody> 
+                    <tr> 
+                     <td class="manual" style="font-family: Arial, Helvetica, sans-serif;">Bla bla bla</td> 
+                    </tr> 
+                   </tbody> 
+                  </table></td> 
+                </tr> 
+               </tbody> 
+              </table></td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="" class="contentbuilderBaseColumnRow"> 
+           <tbody> 
+            <tr valign="top"> 
+             <td class="columnCell" style="vertical-align: top;display: inline-block;" width="100%"> 
+              <table style="width: 100%; border-collapse: collapse; word-break: break-word; "> 
+               <tbody> 
+                <tr> 
+                 <td> 
+                  <table id="contentRegion" role="presentation" cellspacing="0" cellpadding="0" locked="0" style="width:100%; border-collapse: collapse; word-break:break-word;"> 
+                   <tbody> 
+                    <tr> 
+                     <td align="Center"><img src="{[devName:pupper]}" alt="" width="600" style="width: 100%; display: block; border: none; max-width: 100%;" /></td> 
+                    </tr> 
+                   </tbody> 
+                  </table></td> 
+                </tr> 
+               </tbody> 
+              </table></td> 
+            </tr> 
+           </tbody> 
+          </table></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>
