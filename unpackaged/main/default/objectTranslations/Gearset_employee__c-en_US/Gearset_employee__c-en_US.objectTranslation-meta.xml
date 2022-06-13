@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>GearsetEmployee</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>GearsetEmployees</value>
+    </caseValues>
+    
+    
+    
+    
+    <recordTypes>
+        <label><!-- Commute --></label>
+        <name>Commute</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Age is greater than 122 --></errorMessage>
+        <name>CheckValidAge</name>
+    </validationRules>
+</CustomObjectTranslation>
